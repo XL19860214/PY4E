@@ -1,2 +1,2 @@
 # PY4E
-https://www.py4e.com/ Quiz
+https://www.py4e.com/ Autograder
